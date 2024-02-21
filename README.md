@@ -3,12 +3,12 @@ DOMAIN : Sports
 
 Empower Company X's strategic decisions with data-driven insights on team performance. Identify ideal teams for collaboration and investment, optimizing deal success in the competitive league landscape.
 
+## OBJECTIVE :clipboard:
+Analyzing  and visualizing the data to come up with a report on the performance shown by the teams which the company’s management can use to invest. 
+
 ## DATA DESCRIPTION :page_with_curl:
 Basketball.csv - The data set contains information on all the teams so far participated in 
 all the past tournaments.
-
-## OBJECTIVE :clipboard:
-Analyzing  and visualizing the data to come up with a report on the performance shown by the teams which the company’s management can use to invest. 
 
 ## DATA DESCRIPTION :file_folder:
 1. Team: Team’s name
